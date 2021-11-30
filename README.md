@@ -1,4 +1,4 @@
-## First run the make file.
+## First run the makefile.
 
 ## Then use ./maps to run the code.
 
