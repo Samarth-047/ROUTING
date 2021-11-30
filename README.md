@@ -1,4 +1,8 @@
-Instructions on Compilation:-
+## First run the make file.
+
+## Then use ./maps to run the code.
+
+## Instructions after Compilation:-
  
 1. After the compilation of the program ,user first need to enter the input in the first line I  the form of :-
 (Integer1) (integer2)  -- format of input
